@@ -10,6 +10,6 @@ const Home = () => {
       <MessageContainer/>
     </div>
   )
-}
+} 
 
 export default Home
